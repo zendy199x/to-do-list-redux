@@ -1,3 +1,7 @@
+# PROJECT: TO DO LIST BY REACT REDUX
+
+***In this project, I added the job list. After that, you can search by name, by footnote ... you can also edit, delete and can set the level of that job. In this project, I reuse the old code and use Redux***
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
